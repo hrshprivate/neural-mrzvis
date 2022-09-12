@@ -1,0 +1,18 @@
+{
+  "name": "drsh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "train": "node training.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.15",
+    "mnist": "^1.1.0",
+    "gpu.js": " ^1.0.0 "
+  }
+}
